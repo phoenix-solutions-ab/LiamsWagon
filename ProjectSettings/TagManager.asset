@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Ground
+  - Ladder
+  - Kill
+  - Gem
   layers:
   - Default
   - TransparentFX
@@ -49,6 +53,9 @@ TagManager:
     locked: 0
   - name: Objects
     uniqueID: 1835883225
+    locked: 0
+  - name: KillLayer
+    uniqueID: 159347841
     locked: 0
   - name: Foreground
     uniqueID: 1506564273
